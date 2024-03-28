@@ -4,10 +4,11 @@
 
 ## Problem Statement
 
-Analyzed E-Commerce sales data, Created an interactive dashboard using power bi.
-
+Owner of Madhav Store wants us to help them create a dashboard to track and analyze their online sales across India.
 
 ### Steps followed 
+
+Analyzed E-Commerce sales data, Created an interactive dashboard using power bi.
 
 - Step 1 : Load data into Power BI Desktop, dataset is a csv file.
 - Step 2 : Created interactive dashboard to track and analyze online sales data.
